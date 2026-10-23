@@ -197,6 +197,7 @@ No outputs.
 | [iosxe_interface_vlan.vlan](https://registry.terraform.io/providers/CiscoDevNet/iosxe/latest/docs/resources/interface_vlan) | resource |
 | [iosxe_interface_vrrp_v2.vrrp_v2](https://registry.terraform.io/providers/CiscoDevNet/iosxe/latest/docs/resources/interface_vrrp_v2) | resource |
 | [iosxe_interface_vrrp_v2.vrrp_v2_unmanaged](https://registry.terraform.io/providers/CiscoDevNet/iosxe/latest/docs/resources/interface_vrrp_v2) | resource |
+| [iosxe_iox.iox](https://registry.terraform.io/providers/CiscoDevNet/iosxe/latest/docs/resources/iox) | resource |
 | [iosxe_ipv6_local_pool.ipv6_local_pool](https://registry.terraform.io/providers/CiscoDevNet/iosxe/latest/docs/resources/ipv6_local_pool) | resource |
 | [iosxe_ipv6_prefix_list.ipv6_prefix_list](https://registry.terraform.io/providers/CiscoDevNet/iosxe/latest/docs/resources/ipv6_prefix_list) | resource |
 | [iosxe_isis.isis](https://registry.terraform.io/providers/CiscoDevNet/iosxe/latest/docs/resources/isis) | resource |

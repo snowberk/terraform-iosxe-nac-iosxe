@@ -1,6 +1,7 @@
 ## Unreleased
 
 - Fix `bridge_domain` member_interfaces `service_instances` attribute name (was incorrectly `service_instance` singular, causing the provider to silently drop the service-instance binding)
+- Add `iox` module support (`enable`) using the new `iosxe_iox` provider resource
 
 ## 1.0.0
 
